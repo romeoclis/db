@@ -4,4 +4,6 @@ PHP version required 8.1
 
 **How to install?**
 
+```bash
 composer require robert-lerning/db-learning
+```
