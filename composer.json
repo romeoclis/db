@@ -1,5 +1,5 @@
 {
-    "name": "robert/db",
+    "name": "robert-lerning/db",
     "type": "package",
     "license": "MIT",
     "autoload": {
