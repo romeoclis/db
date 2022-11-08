@@ -1,0 +1,21 @@
+{
+    "name": "robert/db",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Robert\\Db\\": "src/Db"
+        }
+    },
+    "authors": [
+        {
+            "name": "Robert Igumnov"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php" : "^8.0",
+        "ext-pdo": "*",
+        "aigletter/contracts" : "^1.0.2"
+    }
+}
